@@ -55,7 +55,7 @@ Prompt engineering techniques to produce structured, consistent AI-generated sum
 AI-powered resume analysis tool that compares resumes with job descriptions to evaluate fit.
 
 **Tech Stack:**  
-JavaScript / TypeScript · AI/NLP Processing  
+JavaScript / TypeScript / FastAPI · AI/NLP Processing  
 
 **What it does:**  
 - Compares resume content with job descriptions  
