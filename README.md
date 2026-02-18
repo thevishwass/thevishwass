@@ -85,7 +85,7 @@ FastAPI · REST APIs · Node.js/Express.js
 Google Gemini API · Prompt Engineering  
 
 **Tools:**  
-Git · GitHub · VS Code · Postman  
+Git · GitHub · Postman · Docker & Docker Compose · VS Code
 
 
 
