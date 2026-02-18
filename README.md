@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Vishwas
+# Hi, I'm Vishwas ^_^
 
-🚀 Developer building practical AI-powered web applications  
-🎓 Student focused on Full-Stack Development & Cloud Computing  
-🤖 Interested in AI automation, productivity tools, and real-world problem solving  
+Developer building practical AI-powered web applications  
+Student focused on Full-Stack Development & Cloud Computing  
+Interested in AI automation, productivity tools, and real-world problem solving  
 
 
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 1️⃣ AI Email Sender  
+### 1️. AI Email Sender  
 AI-powered web app that generates and sends personalized job application emails automatically.
 
 **Tech Stack:**  
@@ -30,11 +30,11 @@ Integrated Gemini API for dynamic content generation and implemented secure Gmai
 
 
 
-### 2️⃣ Email Summarizer  
+### 2️. Email Summarizer  
 AI-powered tool that converts long emails into concise, easy-to-read summaries.
 
 **Tech Stack:**  
-TypeScript · Next.js · Gemini API  
+TypeScript · Next.js · Gemini API · Node.js/Express.js
 
 **What it does:**  
 - Accepts lengthy email content  
@@ -51,7 +51,7 @@ Prompt engineering techniques to produce structured, consistent AI-generated sum
 
 
 
-### 3️⃣ Resume Analyzer  
+### 3️. Resume Analyzer  
 AI-powered resume analysis tool that compares resumes with job descriptions to evaluate fit.
 
 **Tech Stack:**  
@@ -73,13 +73,13 @@ Implemented text comparison logic and AI-driven analysis for resume scoring and 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:**  
-Next.js · React · TypeScript · JavaScript  
+Next.js · MongoDB · React · TypeScript/JavaScript
 
 **Backend:**  
-FastAPI · REST APIs  
+FastAPI · REST APIs · Node.js/Express.js 
 
 **AI Integration:**  
 Google Gemini API · Prompt Engineering  
@@ -89,19 +89,19 @@ Git · GitHub · VS Code · Postman
 
 
 
-## 📈 Currently Learning
+## Currently Learning
 
-- Advanced Next.js (Auth, Caching, Performance)  
 - Cloud Computing Fundamentals  
-- Backend Architecture & API Security  
+- Backend Architecture & API Security
+- LLMs
 
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/thevishwass  
-- LinkedIn: (Add your link here)  
+- LinkedIn: https://www.linkedin.com/in/vishwassingh15/
 
 
 
-> Building practical AI tools that solve real-world productivity problems.
+> Building practical AI tools that solve real world productivity problems.
