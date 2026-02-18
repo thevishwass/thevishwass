@@ -1,8 +1,8 @@
 # Hi, I'm Vishwas ^_^
 
-Developer building practical AI-powered web applications  
-Student focused on Full-Stack Development & Cloud Computing  
-Interested in AI automation, productivity tools, and real-world problem solving  
+- Developer building practical AI-powered web applications  
+- Student focused on Full-Stack Development & Cloud Computing  
+- Interested in AI automation, productivity tools, and real-world problem solving  
 
 
 
