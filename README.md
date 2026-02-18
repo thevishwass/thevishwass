@@ -76,16 +76,20 @@ Implemented text comparison logic and AI-driven analysis for resume scoring and 
 ## Tech Stack
 
 **Frontend:**  
-Next.js · MongoDB · React · TypeScript/JavaScript
+Next.js · React · TypeScript · JavaScript  
 
 **Backend:**  
-FastAPI · REST APIs · Node.js/Express.js 
+FastAPI · Node.js · Express.js · REST APIs  
+
+**Database:**  
+MongoDB · MySQL  
 
 **AI Integration:**  
 Google Gemini API · Prompt Engineering  
 
 **Tools:**  
-Git · GitHub · Postman · Docker & Docker Compose · VS Code
+Git · GitHub · Postman · Docker · Docker Compose · VS Code  
+
 
 
 
