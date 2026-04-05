@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ Clones the repo → chunks the code → embeds into Pinecone → DeepSeek answer
 </td>
 <td width="50%" valign="top">
 
-### 📧 AI Email Sender
+### AI Email Sender
 Generates and sends **personalized job application emails** automatically — tailored per role and company via Gmail SMTP.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -48,7 +48,7 @@ Generates and sends **personalized job application emails** automatically — ta
 <tr>
 <td width="50%" valign="top">
 
-### ✉️ Email Summarizer
+### Email Summarizer
 Converts **long email threads** into concise, structured summaries using prompt-engineered Gemini calls.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -60,7 +60,7 @@ Converts **long email threads** into concise, structured summaries using prompt-
 </td>
 <td width="50%" valign="top">
 
-### 📄 Resume Analyzer
+### Resume Analyzer
 Compares resumes against job descriptions — highlights **skill matches**, flags missing keywords, and scores alignment.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -74,7 +74,7 @@ Compares resumes against job descriptions — highlights **skill matches**, flag
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -108,22 +108,12 @@ Compares resumes against job descriptions — highlights **skill matches**, flag
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- ☁️ Cloud Computing Fundamentals
-- 🔐 Backend Architecture & API Security
-- 🧠 LLMs & AI Systems
+- Cloud Computing Fundamentals
+- Backend Architecture & API Security
+- LLMs & AI Systems
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vishwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevishwass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevishwass&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
