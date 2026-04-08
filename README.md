@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI GitHub Repo Copilot
+### AI GitHub Repo Copilot
 Ask natural language questions about **any public GitHub repo** — powered by RAG, vector search, and LLM reasoning.
 
 Clones the repo → chunks the code → embeds into Pinecone → DeepSeek answers with source attribution.
@@ -29,7 +29,7 @@ Clones the repo → chunks the code → embeds into Pinecone → DeepSeek answer
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
-🔗 [View Repository →](https://github.com/thevishwass/ai-github-repo-copilot)
+🔗 [Visit Demo →](https://ai-github-repo-copilot.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
